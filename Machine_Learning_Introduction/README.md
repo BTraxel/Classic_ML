@@ -1,0 +1,3 @@
+# Machine Learning and Data Mining Folder
+
+Welcome to the Machine_Learning_Introduction folder! This folder houses a collection of Jupyter Python scripts that demonstrate various simple applications of Machine Learning. The particularity of this folder is that it takes you through the basis of Machine Learning step by step with visual explanation and a mathematical focus. Originally created for a university class, these scripts showcase a wide range of data analysis and predictive modeling techniques.

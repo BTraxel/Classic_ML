@@ -1,0 +1,1 @@
+This folder focuses on the implementation of binary classification and boundary definition with logistic and linear regression. It uses a problem of predictive maintenance with aircraft replacements valves and maintenance scores to showcase real life application.
