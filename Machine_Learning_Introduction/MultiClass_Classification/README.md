@@ -1,0 +1,1 @@
+This folder showcase a one vs all multiclass classification problem using the classic digits dataset
